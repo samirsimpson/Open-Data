@@ -1,0 +1,165 @@
+Major,Major Category,Men,Women,More Men than Women?,Employed,Unemployed,Median Income
+Accounting,Business,72061,68967,TRUE,103915,2640,50000
+Actuarial Science,Business,590,381,TRUE,820,20,74000
+Advertising and Public Relations,Communications & Journalism,4498,9219,FALSE,11101,383,45000
+Aerospace Engineering,Engineering,7305,742,TRUE,5562,133,74000
+Agricultural Economics,Agriculture & Natural Resources,2832,663,TRUE,2544,36,48000
+Agriculture Production and Management,Agriculture & Natural Resources,6520,2016,TRUE,6764,99,45000
+Animal Sciences,Agriculture & Natural Resources,5642,5738,FALSE,8928,145,40000
+Anthropology and Archeology,Humanities & Liberal Arts,5877,11195,FALSE,12195,486,33000
+Applied Mathematics,Computers & Mathematics,1676,1027,TRUE,2130,58,66000
+Architectural Engineering,Engineering,1103,320,TRUE,1072,20,62000
+Architecture,Engineering,17924,8972,TRUE,20588,583,51000
+Area Ethnic and Civilization Studies,Humanities & Liberal Arts,4313,8327,FALSE,9217,308,40000
+Art and Music Education,Education,8644,16536,FALSE,15217,276,17500
+Art History and Criticism,Humanities & Liberal Arts,1545,8029,FALSE,6382,225,28000
+Astronomy and Astrophysics,Physical Sciences,520,216,TRUE,555,18,47500
+Atmospheric Sciences and Meteorology,Physical Sciences,1295,444,TRUE,1287,28,50000
+Biochemical Sciences,Biology & Life Science,7635,6149,TRUE,11024,273,60000
+Biological Engineering,Engineering,2878,979,TRUE,2925,62,50000
+Biology,Biology & Life Science,61746,63892,FALSE,93728,2207,50000
+Biomedical Engineering,Engineering,2306,1541,TRUE,3258,109,65000
+Botany,Biology & Life Science,1019,1067,FALSE,1224,43,23000
+Business Economics,Business,4496,2212,TRUE,4990,157,55000
+Business Management and Administration,Business,130860,100707,TRUE,167962,5160,45000
+Chemical Engineering,Engineering,16812,5912,TRUE,15944,449,65000
+Chemistry,Physical Sciences,29413,16982,TRUE,30435,799,45000
+Civil Engineering,Engineering,30187,5680,TRUE,25923,586,65000
+Clinical Psychology,Psychology & Social Work,577,1212,FALSE,1229,42,32000
+Cognitive Science and Biopsychology,Biology & Life Science,452,647,FALSE,927,29,52000
+Commercial Art and Graphic Design,Arts,11919,23332,FALSE,26919,1062,35000
+Communication Disorders Sciences and Services,Health,1068,16261,FALSE,12234,197,39000
+Communication Technologies,Computers & Mathematics,3254,1807,TRUE,4143,222,40000
+Communications,Communications & Journalism,30012,47904,FALSE,62198,2129,44000
+Community and Public Health,Health,2121,5754,FALSE,6042,210,36000
+Composition and Rhetoric,Humanities & Liberal Arts,2044,3580,FALSE,4370,225,32000
+Computer Administration Management and Security,Computers & Mathematics,3323,1106,TRUE,3711,142,59000
+Computer and Information Systems,Computers & Mathematics,16334,7540,TRUE,20015,648,65000
+Computer Engineering,Engineering,14576,3898,TRUE,15909,435,89000
+Computer Networking and Telecommunications,Computers & Mathematics,2663,1175,TRUE,3266,100,56000
+Computer Programming and Data Processing,Computers & Mathematics,1387,698,TRUE,1578,64,50000
+Computer Science,Computers & Mathematics,52774,19038,TRUE,59545,1947,80000
+Construction Services,Industrial Arts & Consumer Services,5919,626,TRUE,5669,93,70000
+Cosmetology Services and Culinary Arts,Industrial Arts & Consumer Services,1692,1272,TRUE,2301,85,31000
+Counseling Psychology,Psychology & Social Work,1038,3192,FALSE,2851,86,30000
+Court Reporting,Law & Public Policy,237,166,TRUE,272,8,30000
+Criminal Justice and Fire Protection,Law & Public Policy,37977,25303,TRUE,49947,1509,43000
+Criminology,Social Science,3599,2806,TRUE,4894,149,40000
+Drama and Theater Arts,Arts,6079,9310,FALSE,11949,568,32000
+Early Childhood Education,Education,494,15835,FALSE,11652,260,30000
+Ecology,Biology & Life Science,2152,2733,FALSE,3982,111,40000
+Economics,Social Science,52793,24241,TRUE,54631,1793,53000
+Educational Administration and Supervision,Education,1685,2010,FALSE,2250,29,35000
+Educational Psychology,Psychology & Social Work,514,1692,FALSE,1309,36,22000
+Electrical Engineering,Engineering,64481,9270,TRUE,52757,1434,75000
+Electrical Engineering Technology,Engineering,6064,1223,TRUE,5547,155,65000
+"Electrical, Mechanical, and Precision Technologies and Production",Industrial Arts & Consumer Services,1090,114,TRUE,906,32,42000
+Engineering and Industrial Management,Engineering,3443,545,TRUE,2223,79,28050
+Engineering Mechanics Physics and Science,Engineering,2269,329,TRUE,1741,43,56500
+Engineering Technologies,Engineering,2439,672,TRUE,2367,73,50000
+English Language and Literature,Humanities & Liberal Arts,39703,80886,FALSE,76990,2559,27000
+Environmental Engineering,Engineering,1151,805,TRUE,1564,42,60000
+Environmental Science,Biology & Life Science,6090,5952,TRUE,10062,338,45000
+Family and Consumer Sciences,Industrial Arts & Consumer Services,2560,32139,FALSE,21288,557,20000
+Film Video and Photographic Arts,Arts,6146,4244,TRUE,8286,532,36000
+Finance,Business,45961,23713,TRUE,56667,1560,65000
+Fine Arts,Arts,15446,28560,FALSE,28800,1152,23000
+Food Science,Agriculture & Natural Resources,1126,1648,FALSE,2058,71,46000
+Forestry,Agriculture & Natural Resources,5264,857,TRUE,3860,75,34700
+"French, German, Latin, and Other Common Foreign Language Studies",Humanities & Liberal Arts,6813,20680,FALSE,17025,476,24900
+General Agriculture,Agriculture & Natural Resources,7936,2310,TRUE,6735,122,30750
+General Business,Business,95570,62329,TRUE,110144,3139,42000
+General Engineering,Engineering,31431,5507,TRUE,25119,673,53000
+General Medical and Health Services,Health,3322,8764,FALSE,9328,271,40000
+General Social Sciences,Social Science,5141,6630,FALSE,6946,233,22800
+Genetics,Biology & Life Science,553,697,FALSE,1005,17,58000
+Geography,Social Science,7288,3802,TRUE,7884,253,41000
+Geological and Geophysical Engineering,Engineering,524,134,TRUE,418,16,48000
+Geology and Earth Science,Physical Sciences,9277,3683,TRUE,8881,315,42500
+Geosciences,Physical Sciences,845,339,TRUE,911,27,53000
+Health and Medical Administrative Services,Health,2993,9639,FALSE,9694,350,40000
+Health and Medical Preparatory Programs,Health,4808,2872,TRUE,4846,85,42000
+History,Humanities & Liberal Arts,51576,32724,TRUE,54964,1602,35000
+Hospitality Management,Business,5785,8750,FALSE,11913,324,40000
+Human Resources and Personnel Management,Business,5717,10692,FALSE,12143,403,44500
+Human Services and Community Organization,Psychology & Social Work,1431,5887,FALSE,5433,204,31400
+Humanities,Humanities & Liberal Arts,1619,2837,FALSE,2870,119,25000
+Industrial and Manufacturing Engineering,Engineering,11075,3330,TRUE,10504,317,65000
+Industrial and Organizational Psychology,Psychology & Social Work,785,1093,FALSE,1266,60,35000
+Industrial Production Technologies,Engineering,5625,588,TRUE,4290,137,52000
+Information Sciences,Computers & Mathematics,4902,2307,TRUE,6126,201,72000
+Intercultural and International Studies,Humanities & Liberal Arts,2253,4401,FALSE,5438,197,42000
+Interdisciplinary Social Sciences,Social Science,1978,4373,FALSE,4481,168,34000
+International Business,Business,3476,4440,FALSE,6446,197,50000
+International Relations,Social Science,4410,5616,FALSE,7670,276,50000
+Journalism,Communications & Journalism,13044,19752,FALSE,24321,823,40000
+Liberal Arts,Humanities & Liberal Arts,18122,28157,FALSE,30893,1018,30000
+Linguistics and Comparative Language and Literature,Humanities & Liberal Arts,2206,5832,FALSE,5236,229,25000
+Management Information Systems and Statistics,Business,8788,4905,TRUE,11663,333,75000
+Marketing and Marketing Research,Business,35668,41119,FALSE,60123,1790,48000
+Mass Media,Communications & Journalism,8967,8554,TRUE,14401,671,40000
+Materials Engineering and Materials Science,Engineering,1933,606,TRUE,1811,54,60000
+Materials Science,Engineering,1220,472,TRUE,1405,32,75000
+Mathematics,Computers & Mathematics,31494,22653,TRUE,33576,857,35000
+Mathematics and Computer Science,Computers & Mathematics,705,381,TRUE,872,21,80000
+Mathematics Teacher Education,Education,3911,5694,FALSE,5696,82,24000
+Mechanical Engineering,Engineering,54997,5724,TRUE,44313,1153,72000
+Mechanical Engineering Related Technologies,Engineering,2332,156,TRUE,2039,51,64000
+Medical Assisting Services,Health,646,4650,FALSE,3954,70,40000
+Medical Technologies Technicians,Health,3103,10111,FALSE,9157,179,43700
+Metallurgical Engineering,Engineering,1352,172,TRUE,849,27,30000
+Microbiology,Biology & Life Science,3966,5001,FALSE,6334,170,49000
+Mining and Mineral Engineering,Engineering,974,85,TRUE,697,30,60000
+Miscellaneous Agriculture,Agriculture & Natural Resources,691,517,TRUE,860,12,35000
+Miscellaneous Biology,Biology & Life Science,2399,2158,TRUE,3508,92,43000
+Miscellaneous Business & Medical Administration,Business,4558,3983,TRUE,6504,233,45000
+Miscellaneous Engineering,Engineering,4643,1234,TRUE,4490,131,64000
+Miscellaneous Engineering Technologies,Engineering,4260,1096,TRUE,4320,130,60000
+Miscellaneous Fine Arts,Arts,566,528,TRUE,887,59,32000
+Miscellaneous Health Medical Professions,Health,1353,6834,FALSE,5615,157,30000
+Miscellaneous Psychology,Psychology & Social Work,1180,2999,FALSE,3028,106,35050
+Miscellaneous Social Sciences,Social Science,888,1030,FALSE,1436,39,45000
+Molecular Biology,Biology & Life Science,2355,2664,FALSE,4150,98,58000
+Multi-Disciplinary or General Science,Physical Sciences,15093,13948,TRUE,19775,506,40000
+Multi/Interdisciplinary Studies,Interdisciplinary,1648,3711,FALSE,4305,144,41000
+Music,Arts,14183,15874,FALSE,21357,628,25000
+Natural Resources Management,Agriculture & Natural Resources,5455,2804,TRUE,6308,173,41000
+Naval Architecture and Marine Engineering,Engineering,1537,85,TRUE,973,30,50000
+Neuroscience,Biology & Life Science,1238,1724,FALSE,2345,57,41000
+Nuclear Engineering,Engineering,1136,175,TRUE,955,25,81000
+"Nuclear, Industrial Radiology, and Biological Technologies",Physical Sciences,416,521,FALSE,754,16,52000
+Nursing,Health,14031,143394,FALSE,112782,1734,50000
+Nutrition Sciences,Health,896,6596,FALSE,5437,158,34000
+Oceanography,Physical Sciences,752,454,TRUE,892,23,47000
+Operations Logistics and E-Commerce,Business,3991,1842,TRUE,4823,147,60000
+Other Foreign Languages,Humanities & Liberal Arts,2526,3993,FALSE,4158,165,25000
+Petroleum Engineering,Engineering,1671,249,TRUE,1247,69,60000
+Pharmacology,Biology & Life Science,364,389,FALSE,581,9,70000
+Pharmacy Pharmaceutical Sciences and Administration,Health,10227,9766,TRUE,13718,286,60000
+Philosophy and Religious Studies,Humanities & Liberal Arts,19722,9117,TRUE,19489,540,30000
+Physical and Health Education Teaching,Education,14283,13270,TRUE,16237,346,21000
+Physical Fitness Parks Recreation and Leisure,Industrial Arts & Consumer Services,18657,17694,TRUE,30114,777,40000
+Physical Sciences,Physical Sciences,638,214,TRUE,560,14,37000
+Physics,Physical Sciences,18060,3887,TRUE,14667,462,50000
+Physiology,Biology & Life Science,3197,3890,FALSE,5661,134,50000
+Plant Science and Agronomy,Agriculture & Natural Resources,5342,2315,TRUE,5525,125,38000
+Political Science and Government,Social Science,52998,34118,TRUE,63748,2007,50000
+Pre-Law and Legal Studies,Law & Public Policy,1980,3613,FALSE,4114,161,40000
+Psychology,Psychology & Social Work,51597,119150,FALSE,123064,3837,35000
+Public Administration,Law & Public Policy,3228,2628,TRUE,4056,132,40000
+Public Policy,Law & Public Policy,1133,1215,FALSE,1910,64,60000
+Science and Computer Teacher Education,Education,3813,4121,FALSE,4409,96,16900
+Social Psychology,Psychology & Social Work,344,633,FALSE,567,22,23800
+Social Work,Psychology & Social Work,5327,31354,FALSE,25314,657,30000
+Sociology,Social Science,20463,42069,FALSE,40321,1206,29000
+Soil Science,Agriculture & Natural Resources,450,151,TRUE,406,9,39000
+Special Needs Education,Education,2477,19283,FALSE,14156,217,33000
+Statistics and Decision Science,Computers & Mathematics,1770,1498,TRUE,2447,74,58000
+Studio Arts,Arts,2348,4842,FALSE,5442,167,27000
+Teacher Education: Multiple Levels,Education,2322,8163,FALSE,6242,87,21000
+Theology and Religious Vocations,Humanities & Liberal Arts,18936,7443,TRUE,17888,349,25000
+Transportation Sciences and Technologies,Industrial Arts & Consumer Services,8773,1070,TRUE,7348,181,65000
+Treatment Therapy Professions,Health,6272,19127,FALSE,19781,364,48000
+United States History,Humanities & Liberal Arts,1340,802,TRUE,1207,38,18400
+Visual and Performing Arts,Arts,1077,3576,FALSE,3647,146,30000
+Zoology,Biology & Life Science,5846,3869,TRUE,6325,103,40000
